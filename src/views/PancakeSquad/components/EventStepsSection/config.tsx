@@ -57,7 +57,7 @@ const stepsConfigBuilder = ({ t, userInfos, eventInfos, userStatus, account, the
         <>
           <Button
             as="a"
-            href="https://fortalezaduro.com/swap?outputCurrency=0xeBa5f6AA262cE96178557656CE0061d7EfB10E83"
+            href="https://swap.fortalezadigital.io/swap?outputCurrency=0xeBa5f6AA262cE96178557656CE0061d7EfB10E83"
             target="_blank"
             width="100%"
           >
